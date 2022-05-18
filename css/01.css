@@ -1,0 +1,15 @@
+#pic {
+    border: 2px solid red;
+    position: absolute;
+    top: 100px;
+    left: 0;
+    transition: all .5s;
+}
+
+#text_h2 {
+    display: inline-block;
+    margin-top: 600px;
+    font-size: 35px;
+    transition: all .5s;
+
+}
